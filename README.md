@@ -5,6 +5,10 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%">
+
+<br>
+
 <p align=center>🛠 <b>Techs</b> 🛠<br>
   Techs that I've used at least once</p>
 <p align=center>
