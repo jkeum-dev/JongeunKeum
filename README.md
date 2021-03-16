@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-:computer: Major in the Scool of Software at Soongsil University.<br>
+👩🏻‍💻 Major in the Scool of Software at Soongsil University.<br>
 <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> Cadet in 42Seoul.
 
 <br>
@@ -13,7 +13,7 @@
 
 <br>
 
-<p align=center>👩🏻‍💻 <b>About Me</b> 👩🏻‍💻 </p>
+<p align=center> ❤ <b>About Me</b> ❤ </p>
 <p align=center>
 <a href="https://github.com/JongeunKeum" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>  <a href=mailto:jon9eun@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  <a href="https://velog.io/@jongeun" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>  
   </p>
