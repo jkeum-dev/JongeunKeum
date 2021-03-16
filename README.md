@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 👩🏻‍💻 Major in the Scool of Software at Soongsil University.<br>
-<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/> Cadet in 42Seoul.
+<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=42&logoColor=black"/>Cadet in 42Seoul.
 
 <br>
 
