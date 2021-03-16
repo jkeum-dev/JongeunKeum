@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ d6ee18189549448f8d6a45eb674897f5e53b22ac }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ JongeunKeum }}
