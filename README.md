@@ -5,6 +5,14 @@
 
 <br>
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jkeum)](https://github.com/JaeSeoKim/badge42)
+
+<br>
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jkeum?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+
+<br>
+
 <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/0-profile-details.svg" width="60%"> <img src="https://raw.githubusercontent.com/JongeunKeum/JongeunKeum/main/profile-summary-card-output/github/3-stats.svg" width="30%">
 
 <br>
